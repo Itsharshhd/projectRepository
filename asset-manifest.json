@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projectRepository/static/css/main.a78b4926.chunk.css",
+    "main.js": "/projectRepository/static/js/main.a01c7093.chunk.js",
+    "main.js.map": "/projectRepository/static/js/main.a01c7093.chunk.js.map",
+    "runtime-main.js": "/projectRepository/static/js/runtime-main.020ff478.js",
+    "runtime-main.js.map": "/projectRepository/static/js/runtime-main.020ff478.js.map",
+    "static/js/2.6c0fea89.chunk.js": "/projectRepository/static/js/2.6c0fea89.chunk.js",
+    "static/js/2.6c0fea89.chunk.js.map": "/projectRepository/static/js/2.6c0fea89.chunk.js.map",
+    "index.html": "/projectRepository/index.html",
+    "precache-manifest.b23ead821ae96f9f57f8081f9611ad8e.js": "/projectRepository/precache-manifest.b23ead821ae96f9f57f8081f9611ad8e.js",
+    "service-worker.js": "/projectRepository/service-worker.js",
+    "static/css/main.a78b4926.chunk.css.map": "/projectRepository/static/css/main.a78b4926.chunk.css.map",
+    "static/js/2.6c0fea89.chunk.js.LICENSE.txt": "/projectRepository/static/js/2.6c0fea89.chunk.js.LICENSE.txt",
+    "static/media/q_w.png": "/projectRepository/static/media/q_w.3382a953.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.020ff478.js",
+    "static/js/2.6c0fea89.chunk.js",
+    "static/css/main.a78b4926.chunk.css",
+    "static/js/main.a01c7093.chunk.js"
+  ]
+}
